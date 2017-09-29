@@ -1,0 +1,35 @@
+body{
+background-color: yellow;
+height: 900px;
+width: 1400px;
+}
+
+.email{
+float: right;
+font-size: 20px;
+}
+
+header{
+font-size: 50px;
+}
+
+.head1{
+font-weight: 300;
+text-align: center;
+}
+
+h1{
+text-indent: 150px; 
+}
+
+.head3{
+text-align: center;
+}
+
+.head4{
+text-align: center;
+}
+
+.head5{
+text-align: center;
+}
