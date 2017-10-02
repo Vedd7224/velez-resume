@@ -1,7 +1,7 @@
 body{
 background-color: yellow;
 height: 900px;
-width: 1400px;
+width: 960px;
 }
 
 .email{
@@ -13,14 +13,13 @@ header{
 font-size: 50px;
 }
 
-<<<<<<< HEAD
 .head1{
 font-weight: 300;
 text-align: center;
 }
 
 h1{
-text-indent: 150px; 
+text-indent: 150px;
 }
 
 .head3{
@@ -33,14 +32,4 @@ text-align: center;
 
 .head5{
 text-align: center;
-=======
-h1{
-font-weight: 300;
-text-indent: 150px;
-}
-
-{
-float: right;
-height: 200px;
->>>>>>> b160cc9f862e79bc61eb735ad9a8bd3d20792834
 }
